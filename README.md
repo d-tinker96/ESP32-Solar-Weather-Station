@@ -23,3 +23,5 @@ The upcoming iteration will focus on refining the code for enhanced efficiency. 
 # Collaborate and Contribute:
 
 Your contributions, questions, and suggestions are welcomed to enhance the ESP32 Solar Weather Station. Feel free to explore the code and share your insights. Questions, comments, and suggestions are always welcome!
+
+<a href="https://www.pcbway.com/project/shareproject/Esp32_Solar_Weather_Station_V1_4561b818.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
